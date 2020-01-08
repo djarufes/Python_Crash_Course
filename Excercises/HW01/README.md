@@ -1,20 +1,16 @@
-# Python_Crash_Course
-A course that taught me to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas (specifically computations). Like engineers, they design things, assembling components into systems and evaluating tradeoffs among alternatives. Like scientists, they observe the behavior of complex systems, form hypotheses, and test predictions.
+## Purpose of Programs
+__Q1__ - To calculate the amount of ingredients (in Cups) needed to cook a quantity of cookies.
 
-## Topics
-Structured programming concepts such as:
-- Variables, making decisions, looping
-- Lists, tuples
-- File handling and applications
-- Modularization techniques
-- Python standard libraries and modules
+__Q2__ - To calculate the number of grapevines that will fit in a row of a vineyard given the number of grapevines, the length of the row (in ft), the amount of space used by an end-post assembly (in ft), and the space between vines (in ft),
 
-Basic object oriented programming concepts such as:
-- class and object, data attributes, methods, __ init __ (), abstraction, encapsulation, inheritance, and polymorphism.
+__Q3__ - To calculate the the amount of money that will be in an account after a specified number of years, given the beginning amount of money, account's interest rate, compoundedness, and number of years the account is left untouched. 
 
-## Learning Outcomes
-1. Demonstrate the programming concepts.
-2. Explain high level language programming structures.
-3. Explain algorithm development.
-4. Program in Python to solve typical engineering problems and to analyze data.
-5. Use Python to generate high quality technical plots (x y plot, contour plot, etc.) that can be incorporated into technical reports.
+## Compiling / Running Through Python 3.8.1 Shell (IDLE)
+
+## Sample Input / Output
+__Q1__
+![alt text](https://github.com//djarufes/Python_Crash_Course/edit/master/Excercises/HW01/Input_Output/Q1Sample.png "Q1 I/O")
+
+__Q2__
+
+__Q3__
