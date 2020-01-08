@@ -9,8 +9,10 @@ __Q3__ - To calculate the the amount of money that will be in an account after a
 
 ## Sample Input / Output
 __Q1__
-![alt text](https://github.com//djarufes/Python_Crash_Course/edit/master/Excercises/HW01/Input_Output/Q1Sample.png "Q1 I/O")
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW01/Input_Output/Q1Sample.PNG "Q1 I/O")
 
 __Q2__
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW01/Input_Output/Q2Sample.PNG "Q2 I/O")
 
 __Q3__
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW01/Input_Output/Q3Sample.PNG "Q3 I/O")
