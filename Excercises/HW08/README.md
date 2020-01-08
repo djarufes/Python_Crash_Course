@@ -1,18 +1,20 @@
 ## Purpose of Programs
-__Q1__ - To determine if the month of February has 28 or 29 days depending of the year (leap year or not).
+__Q1__ - To use the trapezoid rule to approximate definite integrals with the following equation.
 
-__Q2__ - To determine what discount will a buyer receive depending on how many packages he/she purchases.
-
-__Q3__ - To determine the type of fluid flow through a pipe (Reynolds numbers) using the given parameters.
+__Q2__ - To read the contents of the file and perform the following calculations:
+1) Average Price Per Year 
+2)	Average Price Per Month 
+3)	Highest and lowest Prices Per Year 
+4)	List of Prices, Lowest to Highest 
+5)	List of Prices, Highest to Lowest 
 
 ## Compiling / Running Through Python 3.8.1 Shell (IDLE)
 
 ## Sample Input / Output
 __Q1__
-![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW02/Input_Output/Q1Sample.PNG "Q1 I/O")
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW08/Input_Output/Q1Sample.PNG "Q1 I/O")
 
 __Q2__
-![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW02/Input_Output/Q2Sample.PNG "Q2 I/O")
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW08/Input_Output/Q2Sample1.PNG "Q2 I/O")
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW08/Input_Output/Q2Sample2.PNG "Q2 I/O")
 
-__Q3__
-![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW02/Input_Output/Q3Sample.PNG "Q3 I/O")
