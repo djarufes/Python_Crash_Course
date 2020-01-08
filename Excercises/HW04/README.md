@@ -20,4 +20,5 @@ __Q3_1__
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW04/Input_Output/Q3_1Sample.PNG "Q3_1 I/O")
 
 __Q3_2__
+
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW04/Input_Output/Q3_2Sample.PNG "Q3_2 I/O")
