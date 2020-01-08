@@ -1,7 +1,7 @@
 ## Purpose of Programs
 __Q1__ - To use the trapezoid rule to approximate definite integrals with the following equation.
 
-__Q2__ - To read the contents of the file and perform the following calculations:
+__Q2__ - To read the contents of the file GasPrices.txt and perform the following calculations:
 1) Average Price Per Year 
 2)	Average Price Per Month 
 3)	Highest and lowest Prices Per Year 
