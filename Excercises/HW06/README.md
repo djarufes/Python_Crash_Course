@@ -11,6 +11,7 @@ __Q4__ - To create a dictionary containing the U.S. states as keys and their cap
 
 ## Sample Input / Output
 __Q1__
+
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW06/Input_Output/Q1Sample.PNG "Q1 I/O")
 
 __Q2__
@@ -20,9 +21,11 @@ __Q2__
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW06/Input_Output/Q2Sample4.PNG "Q2 I/O")
 
 __Q3__
+
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW06/Input_Output/Q3Sample.PNG "Q3 I/O")
 
 __Q4__
+
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW06/Input_Output/Q4Sample1.PNG "Q4 I/O")
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW06/Input_Output/Q4Sample2.PNG "Q4 I/O")
 ![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW06/Input_Output/Q4Sample3.PNG "Q4 I/O")
