@@ -1,18 +1,28 @@
 ## Purpose of Programs
-__Q1__ - To calculate the amount of ingredients (in Cups) needed to cook a quantity of cookies.
+__Q1_1__ - To write a series of random numbers to a file depending on how many the user wants.
 
-__Q2__ - To calculate the number of grapevines that will fit in a row of a vineyard given the number of grapevines, the length of the row (in ft), the amount of space used by an end-post assembly (in ft), and the space between vines (in ft),
+__Q1_2__ - To read the random numbers from a file and prints the quantity and their sum.
 
-__Q3__ - To calculate the the amount of money that will be in an account after a specified number of years, given the beginning amount of money, account's interest rate, compoundedness, and number of years the account is left untouched. 
+__Q2__ - To read the number of steps you took from a file and outputs the average for each month.
+
+__Q3__ - To calculate and displays the total rainfall for the year, the average monthly rainfall, the months with the highest and lowest amounts. 
+
+__Q4__ - To read from a file containing midyear population of the US and output its average annual change and the greatest increase and decrease in population
 
 ## Compiling / Running Through Python 3.8.1 Shell (IDLE)
 
 ## Sample Input / Output
-__Q1__
-![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW01/Input_Output/Q1Sample.PNG "Q1 I/O")
+__Q1_1__
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW05/Input_Output/Q1_1Sample.PNG "Q1_1 I/O")
+
+__Q1_2__
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW05/Input_Output/Q1_2Sample.PNG "Q1_2 I/O")
 
 __Q2__
-![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW01/Input_Output/Q2Sample.PNG "Q2 I/O")
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW05/Input_Output/Q2Sample.PNG "Q2 I/O")
 
 __Q3__
-![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW01/Input_Output/Q3Sample.PNG "Q3 I/O")
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW05/Input_Output/Q3Sample.PNG "Q3 I/O")
+
+__Q4__
+![alt text](https://github.com/djarufes/Python_Crash_Course/blob/master/Excercises/HW05/Input_Output/Q4Sample.PNG "Q4 I/O")
